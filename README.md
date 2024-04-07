@@ -28,7 +28,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/frezdev/frezdev/output/snake.svg" alt="Snake animation" />
-
-###
